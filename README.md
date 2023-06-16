@@ -1,1 +1,1 @@
-I'm not a coder. I'm using discord for my nerdy Minecraft server.
+I'm not a coder. I'm using GitHub for my nerdy Minecraft server.
